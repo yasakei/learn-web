@@ -1,16 +1,17 @@
 # learn-web 🌐
 
-A simple course to teach you all the basics of Web!
+A comprehensive course to teach you all the essentials of Web Development!
 
-Interactive, with Python CLI tool - complete tasks, run verification scripts, and get scores! 
+Interactive Python CLI tool with progressive lessons - complete tasks, run verification scripts, and get scores as you master HTML, CSS, JavaScript, and modern web development techniques from beginner to intermediate level. 
 
 ## Features
 
-- 📚 **Interactive Learning**: Step-by-step lessons covering HTML, CSS, and JavaScript basics
-- 🎯 **Task-Based Learning**: Complete hands-on coding tasks to progress
+- 📚 **Comprehensive Learning**: 10 progressive lessons covering HTML, CSS, and JavaScript from basics to advanced
+- 🎯 **Task-Based Learning**: 30 hands-on coding tasks to build real skills
 - ✅ **Automatic Verification**: Built-in verification system checks your code
-- 📊 **Progress Tracking**: Track your score and completion status
+- 📊 **Progress Tracking**: Track your score and completion status (530 total points)
 - 🔄 **Persistent Progress**: Your progress is saved between sessions
+- 🏗️ **Project-Based**: Culminates in building a complete web application
 
 ## Getting Started
 
@@ -59,21 +60,65 @@ python learn_web.py help
 
 ### Lesson 1: HTML Basics 📄
 Learn the fundamentals of HTML structure
-- **Task**: Create Basic HTML Structure
-- **Goal**: Create an HTML file with proper structure (html, head, body tags)
-- **Points**: 10
+- **Task 1**: Create Basic HTML Structure (10 points)
+- **Task 2**: Add Semantic HTML Elements (15 points)  
+- **Task 3**: Add Content Elements (10 points)
 
 ### Lesson 2: CSS Styling 🎨
-Learn how to style HTML with CSS  
-- **Task**: Add CSS Styling
-- **Goal**: Create a CSS file and demonstrate CSS syntax
-- **Points**: 15
+Learn how to style HTML with CSS
+- **Task 1**: Add CSS Styling (15 points)
+- **Task 2**: Use CSS Selectors and Properties (15 points)
+- **Task 3**: Apply Box Model Properties (15 points)
 
 ### Lesson 3: JavaScript Basics ⚡
 Add interactivity with JavaScript
-- **Task**: Add JavaScript
-- **Goal**: Create a JavaScript file with a function
-- **Points**: 20
+- **Task 1**: Add JavaScript (20 points)
+- **Task 2**: Use Variables and Operators (15 points)
+- **Task 3**: Add Control Structures (20 points)
+
+### Lesson 4: HTML Forms 📋
+Learn to create interactive forms
+- **Task 1**: Create a Basic Form (20 points)
+- **Task 2**: Add Different Input Types (15 points)
+- **Task 3**: Add Form Validation (15 points)
+
+### Lesson 5: CSS Layout 📐
+Master CSS layout techniques
+- **Task 1**: Use Flexbox Layout (25 points)
+- **Task 2**: Use CSS Grid (25 points)
+- **Task 3**: Make Responsive Design (20 points)
+
+### Lesson 6: JavaScript DOM 🌐
+Manipulate the Document Object Model
+- **Task 1**: Select DOM Elements (20 points)
+- **Task 2**: Manipulate DOM Elements (25 points)
+- **Task 3**: Handle Events (25 points)
+
+### Lesson 7: JavaScript ES6+ 🚀
+Learn modern JavaScript features
+- **Task 1**: Use Arrow Functions (15 points)
+- **Task 2**: Use Destructuring (20 points)
+- **Task 3**: Use Template Literals (15 points)
+
+### Lesson 8: CSS Advanced 🎭
+Advanced CSS techniques and animations
+- **Task 1**: Add CSS Transitions (20 points)
+- **Task 2**: Create CSS Animations (25 points)
+- **Task 3**: Apply CSS Transforms (20 points)
+
+### Lesson 9: JavaScript APIs 🔗
+Work with browser APIs and async programming
+- **Task 1**: Use Fetch API (30 points)
+- **Task 2**: Use Async/Await (25 points)
+- **Task 3**: Use Local Storage (20 points)
+
+### Lesson 10: Web Project 🏗️
+Build a complete web application
+- **Task 1**: Create Project Structure (15 points)
+- **Task 2**: Add Interactive Features (35 points)
+- **Task 3**: Apply Professional Styling (25 points)
+
+**Total: 10 lessons, 30 tasks, 530 points**
 
 ## Example Workflow
 
@@ -129,9 +174,9 @@ Your progress is automatically saved in `progress.json`. The system tracks:
 ## File Validation
 
 The tool automatically validates your code files:
-- **HTML files**: Checks for proper HTML structure (html, head, body tags)
-- **CSS files**: Validates CSS syntax and rules
-- **JavaScript files**: Looks for function declarations
+- **HTML files**: Checks for proper HTML structure, semantic elements, forms, and content
+- **CSS files**: Validates CSS syntax, selectors, layout techniques, and animations
+- **JavaScript files**: Looks for functions, variables, control structures, DOM manipulation, and ES6+ features
 
 ## Tips for Success
 
