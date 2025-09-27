@@ -1,0 +1,28 @@
+# Progress files (user-specific)
+progress.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-created learning files (students will create these)
+*.html
+*.css
+*.js
+!example_*
